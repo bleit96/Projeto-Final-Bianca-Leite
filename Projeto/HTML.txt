@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Document</title>
+</head>
+<body>
+    <header class="header-wrapper">
+        <div class="header">
+            <div class="checkbox-container">
+                <div class="checkbox-wrapper">
+                    <input type="checkbox" id="toggle">
+                    <label class="checkbox" for="toggle">
+                        <div class="trace"></div>
+                        <div class="trace"></div>
+                        <div class="trace"></div>
+                    </label>
+                    <div class="menu"></div>
+                    <nav class="menu-items">
+                        <ul>
+                            <li>
+                                <a href="https://github.com/bleit96"target="_blank">Home</a>
+                            </li>
+                            <li>
+                                <a href="https://www.instagram.com/bleit_/"target="_blank">Sobre</a>
+                            </li>
+                            <li>
+                                <a href="https://github.com/bleit96?tab=repositories"target="_blank">Projetos</a>
+                            </li>
+                        </ul>
+                    </nav>
+                </div>
+            </div>
+        </div>
+        <h1>Bianca Leite</h1>
+        <h2>Student Developer</h2>
+        <div class="social-media">
+            <a href="https://www.linkedin.com/in/bianca-leite/"target="_blank">LinkedIn</a>
+            <a href="https://github.com/bleit96"target="_blank">Github</a>
+        </div>
+    </header>
+    <div class="container">
+        <div class="card-container">
+            <div class="card-text"> *Desafio repositório Dio <br>
+            *Livro de receitas
+             <br> Confira meu <a href="https://github.com/bleit96?tab=repositories"target="_blank">Github</a>!!! :) 
+
+            </div>
+            <div class="card">
+                <div class="card-wrapper">
+                    <h2>Github</h2>
+                    <p>Veja meus projetos!</p>
+                </div>
+            </div>
+        </div>
+
+        <div class="card-container">
+            <div class="card">
+                <div class="card-wrapper">
+                    <h2>Linkedin</h2>
+                    <p>Vem ver minha carreira profissional!</p>
+                </div>
+            </div>
+            <div class="card-text">Bacharel em Engenharia Biotecnologia pela UNESP- Universidade Estadual Paulista "Júlio de Mesquita Filho", Assis (2014- 2018). <br> Mestrado em Biociências e Biotecnologia pela USP- Universidade de São Paulo, Ribeirão Preto (2019-2021). <br> Tem experiência na área de biotecnologia vegetal, com ênfase em cultura de tecido, cultura de células em suspensão e histologia vegetal; e cultura de células animais. <br> Linhas de Pesquisa: Componentes de soja e alterações cromossômicas; Atividade Anti-oxidante e Anti-antitumoral de Fitoestrógenos. <br> Nestas linhas de pesquisa atua principalmente nos seguintes temas: Glycine max para produção de metabólitos secundários com atividades estrogênicas humanas.
+               <br>  Confira meu  <a href="http://lattes.cnpq.br/7014095578588106"target="_blank">Lattes</a>!!! :) 
+            </div>
+        </div>
+        
+        <div class="card-container">
+            <div class="card-text">Quer saber mais sobre mim? <a href="mailto:biancaa_leite@gmail.com">Me escreva</a>!!! <br> Ou me siga no <a href="https://www.instagram.com/bleit_/"target="_blank">instagram</a> :)
+            </div>
+            <div class="card">
+                <div class="card-wrapper">
+                    <h2>Instagram</h2>
+                    <p>Ou mais do meu dia-a-dia ;)</p>
+                </div>
+            </div>
+        </div>
+    </div>
+    <footer class="footer">
+        Feito por Bianca Leite 
+        || Contato: biancaa.deleite@gmail.com
+    </footer>
+</body>
+</html>
